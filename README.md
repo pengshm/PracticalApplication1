@@ -1,4 +1,8 @@
 # PracticalApplication1
+## Link to the Jupiter Notebook
+
+## Summary
+
 -Bar
 1. The drivers who went to a bar more than 3 times are more likely to accept the coupons, compared to drivers who went less.
 2. The drivers who go to a bar more than once a month and are over the age of 25 are more likely to accept the coupons, compared to all others.
@@ -7,3 +11,7 @@
 
 -Coffee House
 1. The drivers who had passengers who were not kids are more likely to accept the coupons, compared to drivers who had passengers who were kids.
+
+## Next
+1. Further analysis on different coupon categories
+2. Analysis on the influences of 'gender' and 'expiration' on coupon acceptance rate.
