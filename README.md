@@ -1,5 +1,6 @@
 # PracticalApplication1
 ## Link to the Jupiter Notebook
+https://github.com/pengshm/PracticalApplication1/blob/main/prompt.ipynb
 
 ## Summary
 
